@@ -1,0 +1,33 @@
+primeiro: colocamos o scaner, declaramos o scaner para o código.
+declaramos a variavel como o double(numero1, numero2, resultado).
+declaramos a variável int (opcao).
+declaramos a variável string (continuar).
+
+usamos o "do" para indicar que executam uma ação específica que seria:
+a soma; 
+a subtração;
+a multiplicação;
+a divisão;
+e a tabuada.
+
+usamos o "try" usada para capturar e tratar exceções:
+
+usamos o "switch" para decisões baseadas no valor de uma variável, de forma mais limpa e eficiente
+
+usamos o "case 1,2,3,4,5" para representar um valor que a expressão pode assumir. Se o valor da expressão combinada com um case, o bloco correspondente é executado. .
+
+usamos o "if" para executar um bloco de código somente se uma condição for verdadeira.
+
+usamos o "else" para define um bloco de código que será executado quando a condição Do 'if' for falsa.
+
+usamos o "break" para sair de um switch assim que um case for executado, evitando que os outros case abaixo também sejam executados.
+
+usamos o "for" para repetir um bloco de código.
+
+usamos o "default" para define um bloco de código que será executado quando nenhum dos case corresponder ao valor testado no 'switch'.
+
+usamos o "catch" para capturar e tratar exceções que podem ocorrer dentro de um bloco 'try'.
+
+usamos o "while" para executa um bloco de código enquanto uma condição for verdadeira.
+
+usamos o "System.out.printl" para declarar um texto.
